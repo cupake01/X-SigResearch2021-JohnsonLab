@@ -1,6 +1,6 @@
 ## X-SigResearch2021-JohnsonLab
 
-These are progression folders and contain similar code :)
+These are progression folders and contain code from previous numbered folders :)
 
 These are the files I worked on During X-Sig Research 2021:)
 
